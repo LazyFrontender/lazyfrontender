@@ -1,6 +1,8 @@
-import './App.css'
+import './App.css';
 export const App = () => {
-  return <>
-    <h1>Coming soon 🎉</h1>
-  </>
-}
+  return (
+    <div>
+      <h1 className="gradient-text">Soon</h1>{' '}
+    </div>
+  );
+};
