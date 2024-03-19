@@ -14,14 +14,22 @@ export const App = () => {
       <Helmet>
         <title>Javohirs blog</title>
       </Helmet>
-      
-      <h1
+
+      <h2
         className="gradient-text zoom-in"
-        data-aos="flip-down"
+        data-aos="fade-right"
         data-aos-duration="2000"
       >
-        Coming Soon...
-      </h1>
+        Coming
+      </h2>
+      <h2
+        className="gradient-text zoom-in"
+        data-aos="fade-left"
+        data-aos-duration="2000"
+      >
+        Soon...
+      </h2>
+
       <div className="lines">
         <div className="line"></div>
         <div className="line"></div>
