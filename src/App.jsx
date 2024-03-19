@@ -20,7 +20,7 @@ export const App = () => {
         data-aos="flip-down"
         data-aos-duration="2000"
       >
-        Soon
+        Coming Soon...
       </h1>
       <div className="lines">
         <div className="line"></div>
